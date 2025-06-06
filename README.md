@@ -69,11 +69,6 @@ You can replace the `normal_seq` and `sickle_seq` variables with your own DNA se
 
 The sickle cell disease is caused by a **point mutation** in the β-globin gene of hemoglobin. This tool demonstrates a basic form of genetic sequence analysis using Python and BioPython.
 
----
-
-## 🧑‍🔬 Author
-
-Developed by [Your Name] – for educational and bioinformatics practice.
 
 ---
 
